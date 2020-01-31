@@ -1,2 +1,3 @@
 # (CustGlobal)
-DOMAIN,miaoss.cat,DIRECT
+DOMAIN-SUFFIX,miaoss.cat,CustGlobal
+DOMAIN-SUFFIX,everhelper.me,CustGlobal
