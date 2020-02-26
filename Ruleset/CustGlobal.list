@@ -10,3 +10,5 @@ DOMAIN-SUFFIX, qdramas.net,CustGlobal
 DOMAIN-SUFFIX,v2rayssr.com ,CustGlobal
 
 DOMAIN-SUFFIX,openwrt.org,CustGlobal
+
+DOMAIN-SUFFIX,gitpod.io,CustGlobal
