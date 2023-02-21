@@ -1,5 +1,4 @@
 # (CustGlobal)
-DOMAIN-SUFFIX,miaoss.cat,CustGlobal
 DOMAIN-SUFFIX,everhelper.me,CustGlobal
 
 # 24 Hour Wallpaper
@@ -12,3 +11,5 @@ DOMAIN-SUFFIX,v2rayssr.com ,CustGlobal
 DOMAIN-SUFFIX,openwrt.org,CustGlobal
 
 DOMAIN-SUFFIX,gitpod.io,CustGlobal
+
+DOMAIN-SUFFIX,openai.com,CustGlobal
