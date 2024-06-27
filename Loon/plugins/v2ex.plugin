@@ -1,0 +1,10 @@
+#!name=v2ex签到
+#!desc=v2ex签到二合一
+#!author=honjow
+
+[MITM]
+hostname = *.v2ex.com
+
+[Script]
+http-request ^https:\/\/www\.v2ex\.com\/mission\/daily script-path=https://raw.githubusercontent.com/honjow/MyScripts/master/V2EX-DailyBonus/V2EX-DailyBonus.js,  max-size=0, tag=V2EX
+cron "8 10 * * *" script-path=https://raw.githubusercontent.com/honjow/MyScripts/master/V2EX-DailyBonus/V2EX-DailyBonus.js,  tag=V2EX
